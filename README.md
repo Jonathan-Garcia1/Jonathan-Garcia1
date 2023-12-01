@@ -1,6 +1,9 @@
-# John Garcia
+# Jonathan Garcia
+## Data Scientist
 
-## About Me
+###About Me
+I am a passionate and results-driven data scientist with a knack for extracting insights from complex datasets.
+
 
 I am a passionate and dedicated data science enthusiast currently pursuing an accelerated course in Codeup Data Science. Upon completion, this course will provide me with an equivalent to a bachelor's degree, and it is an accredited program. I am excited to apply my knowledge and skills in the field of data science to solve complex problems and drive meaningful insights.
 
