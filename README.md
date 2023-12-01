@@ -1,7 +1,7 @@
 # Jonathan Garcia
 ## Data Scientist
 
-###About Me
+### About Me
 I am a passionate and results-driven data scientist with a knack for extracting insights from complex datasets.
 
 
