@@ -24,20 +24,11 @@ My love for data began in Excel, for my own personal projects, it later develop 
 - [Wine Quality Prediction](https://github.com/Jonathan-Garcia1/zillow_porperty_values/blob/main/final_report.ipynb)
   - Collaboratively developed a predictive model for wine quality using Data-World's dataset, focusing on chemical property analysis. Leveraged Python and Random Forest algorithms to create a model achieving 32% improved accuracy from baseline. Conducted statistical tests and generated visualizations to identify key quality determinants, improving understanding of wine assessment criteria. Played a pivotal role in data preprocessing and model optimization, showcasing strong analytical and programming skills.
 
-## Freelancing Services
-
-- Advanced Excel Design & Automation
-- Data import, manipulation, and processing
-- Complex formula creation
-- Task automation and optimization
-- Large dataset management
-- Data analysis and reporting
-
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: [Your Email Address](mailto:your-email@example.com)
-- Website/Blog: [Your Website/Blog](link-to-website)
+- LinkedIn: [LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/hirejohngarcia/))
+- Email: [Jonathan.T.Garcia.1@gmail.com](mailto:jonathan.t.garcia.1@gmail.com)
+- Website/Blog: [HireJohnGarcia.com](http://hirejohngarcia.com)
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or would like to connect. Let's leverage the power of data and Excel to drive your business success!
+Feel free to reach out to me if you have any questions, collaboration opportunities, or would like to connect.
 
