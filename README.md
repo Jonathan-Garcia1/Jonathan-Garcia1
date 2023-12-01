@@ -26,7 +26,7 @@ My love for data began in Excel, for my own personal projects, it later develop 
 
 ## Contact Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hirejohngarcia/)
+- LinkedIn: [linkedin.com/in/hirejohngarcia/](https://www.linkedin.com/in/hirejohngarcia/)
 - Email: [Jonathan.T.Garcia.1@gmail.com](mailto:jonathan.t.garcia.1@gmail.com)
 - Website/Blog: [HireJohnGarcia.com](http://hirejohngarcia.com)
 
