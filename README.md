@@ -16,9 +16,13 @@ My love for data began in Excel, for my own personal projects, it later develop 
 ## Projects
 
 - [New York Health Inspection Prediction](https://github.com/Somerville-2023/New-York-health-Inspection-Prediction/blob/main/final_notebook.ipynb)
-  -  combined New York City's health inspection data with customer reviews from Google Maps to predict the outcomes of restaurant inspections. The team developed a tool to automatically collect and analyze customer feedback, aligning it with the corresponding health inspection periods. This approach included sentiment analysis of the reviews, providing a more nuanced view of each restaurant's performance. As a result, the project created a predictive model that offered a comprehensive understanding of health inspection outcomes, integrating both quantitative data and qualitative customer experiences. 
-- [Project 2](link-to-project-2): Highlighting the key findings and methodologies used.
-- [Project 3](link-to-project-3): Showcasing the data visualization techniques employed.
+  -  Combined New York City's health inspection data with customer reviews from Google Maps to predict the outcomes of restaurant inspections. The team developed a tool to automatically collect and analyze customer feedback, aligning it with the corresponding health inspection periods. This approach included sentiment analysis of the reviews, providing a more nuanced view of each restaurant's performance. As a result, the project created a predictive model that offered a comprehensive understanding of health inspection outcomes, integrating both quantitative data and qualitative customer experiences.
+
+- [Zillow Property Value Predictions](https://github.com/Jonathan-Garcia1/zillow_porperty_values/blob/main/final_report.ipynb)
+  - A predictive model was created using Zillow's dataset to provide accurate property valuations in the dynamic real estate market. The model employed advanced machine learning techniques, such as SelectKbest and Recursive Feature Elimination (RFE), to identify the most influential features for predicting property values. Utilizing the LassoLars model, the project achieved a significant improvement over the baseline, reducing the Root Mean Square Error (RMSE) from $540,000 to $412,000, marking a 25% enhancement in prediction accuracy. This development represents a substantial stride in the field of real estate analytics, offering a more precise tool for property valuation.
+
+- [Wine Quality Prediction](https://github.com/Jonathan-Garcia1/zillow_porperty_values/blob/main/final_report.ipynb)
+  - Collaboratively developed a predictive model for wine quality using Data-World's dataset, focusing on chemical property analysis. Leveraged Python and Random Forest algorithms to create a model achieving 32% improved accuracy from baseline. Conducted statistical tests and generated visualizations to identify key quality determinants, improving understanding of wine assessment criteria. Played a pivotal role in data preprocessing and model optimization, showcasing strong analytical and programming skills.
 
 ## Freelancing Services
 
