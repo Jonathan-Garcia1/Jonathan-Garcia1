@@ -6,7 +6,7 @@ I am a passionate and results-driven data scientist with a knack for extracting 
 
 Now proficient in data visualization, statistical analysis, and machine learning algorithms. My approach transforms intricate datasets into actionable insights, enabling the delivery of clear predictive models, trend analyses, and business strategies. This expertise allows me to meet the evolving analytical needs of diverse businesses.
 
-My love for data began in Excel, for my own personal projects, it later develop into an invaluable tool for my business. After several years of using Excel in my personal and busness life, I decided to offered my services on freelancing sites like UpWork and Fiverr. I honed my skills through the experience I gained tackling diverse projects. I continue to offer my expertise optimizing data management, analysis, and reporting to help businesses make informed decisions and drive efficiency.
+My love for data began in Excel, for my own personal projects, it later develop into an invaluable tool for my business. After several years of using Excel in my personal and busness life, I decided to offered my services on freelancing sites like UpWork and Fiverr exclusively earning 5-star reviews. I honed my skills through the experience I gained tackling diverse projects. I continue to offer my expertise optimizing data management, analysis, and reporting to help businesses make informed decisions and drive efficiency.
 
 ## Education
 
