@@ -1,5 +1,6 @@
 # Jonathan Garcia
-## Data Scientist
+## Data Scientist | | Location: 🇺🇸 | Veteran 🎖️
+
 
 ### About Me
 I am a passionate and results-driven data scientist with a knack for extracting insights from complex datasets. Curious explorer of data landscapes, avid problem solver, and lifelong learner, I’m deeply fascinated by the art of discovering hidden patterns and trends within seemingly chaotic information. The years spent mastering Excel design and automation provided a solid foundation in data manipulation and formula creation. This experience seamlessly led to data science, advancing my skills through an intensive, project-based career accelerator program.
