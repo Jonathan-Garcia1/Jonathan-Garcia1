@@ -1,5 +1,5 @@
 # Jonathan Garcia
-## Data Scientist | | Location: 🇺🇸 | Veteran 🎖️
+## Data Scientist | Location: 🇺🇸 | Veteran 🎖️ | [Testimonials](http://hirejohngarcia.com/testimonials)
 
 
 ### About Me
